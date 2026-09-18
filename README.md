@@ -1,3 +1,7 @@
+Repository Link : https://github.com/Mst-Sumi-Akter/Movie-Explorer
+
+
+
 # MovieExplorer
 
 A responsive movie and TV show explorer built with React and Vite. MovieExplorer uses the free [TVMaze API](https://www.tvmaze.com/api) to browse the catalog, search by title, filter by genre, and open rich show details in a modal.
