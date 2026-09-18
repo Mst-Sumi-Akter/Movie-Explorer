@@ -39,7 +39,8 @@ src/
 	App.css           Application styles
 	index.css         Global styles and fonts
 	main.jsx          React entry point
-```
+
+-----
 
 🎬 Assignment: Movie Explorer
 Objective: Build a responsive Movie Explorer Application using React. Users should be able to browse movies, search for specific titles, and view detailed information in an interactive modal.
@@ -49,7 +50,6 @@ Core: JavaScript, React
 Styling: CSS, Tailwind CSS (Optional but recommended)
 Data: Free Movie Database API (e.g., OMDB, TMDB, TVMaze)
 TVMaze Doc: API
-
 📋 Features & Requirements
 1. Home Page
 The Home Page serves as the landing page and must include the following sections:
@@ -172,3 +172,6 @@ The application must be fully responsive and provide a seamless experience acros
 
 Mobile: Single column layout, stacked elements, touch-friendly buttons.
 Desktop: 3-4+ column grid for movie cards, optimized spacing.
+
+```
+
