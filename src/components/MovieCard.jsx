@@ -20,3 +20,4 @@ function MovieCard({ show, index, onSelect }) {
 }
 
 export default MovieCard
+
