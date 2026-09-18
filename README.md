@@ -1,5 +1,6 @@
 Repository Link : https://github.com/Mst-Sumi-Akter/Movie-Explorer
-Live Link : https://movie-explorer-swart-chi.vercel.app/
+
+Live Link : https://movie-explorer-smwc.vercel.app/
 
 
 
