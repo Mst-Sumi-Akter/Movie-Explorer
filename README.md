@@ -49,6 +49,7 @@ Core: JavaScript, React
 Styling: CSS, Tailwind CSS (Optional but recommended)
 Data: Free Movie Database API (e.g., OMDB, TMDB, TVMaze)
 TVMaze Doc: API
+
 📋 Features & Requirements
 1. Home Page
 The Home Page serves as the landing page and must include the following sections:
