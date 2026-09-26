@@ -87,8 +87,7 @@ Optional social media or GitHub links.
 Create a dedicated page where users can browse and search for movies.
 
 Search Functionality
-Include a prominent search bar at the top of the page.
-Users must be able to search by movie title.
+Include a prominent Search bar at the top of the page. Users must be able to search by movie title.
 The movie grid should dynamically update based on the search query.
 ** UI Wireframe Example:**
 
