@@ -172,5 +172,5 @@ The application must be fully responsive and provide a seamless experience acros
 Mobile: Single column layout, stacked elements, touch-friendly buttons.
 Desktop: 3-4+ column grid for movie cards, optimized spacing.
 
-```
+-------
 
