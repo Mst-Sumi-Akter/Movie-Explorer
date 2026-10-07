@@ -169,8 +169,8 @@ Optional: Closable by clicking outside the modal (on the backdrop).
 📱 Responsive Design & UX
 The application must be fully responsive and provide a seamless experience across all devices:
 
-**Mobile: Single column layout, stacked elements, touch-friendly buttons. **
-**Desktop: 3-4+ column grid for movie cards, optimized spacing. **
+**Mobile: Single column layout, stacked elements, touch-friendly buttons. ** **
+**Desktop: 3-4+ column grid for movie cards, optimized spacing. ** **
 
 -------
 
