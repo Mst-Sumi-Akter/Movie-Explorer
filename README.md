@@ -4,7 +4,7 @@
 
 
 
-# MovieExplorer
+# Movie Explorer :
 
 A responsive movie and TV show explorer built with React and Vite. MovieExplorer uses the free [TVMaze API](https://www.tvmaze.com/api) to browse the catalog, search by title, filter by genre, and open rich show details in a modal.
 
@@ -17,7 +17,7 @@ npm run dev
 
 The production build can be checked with `npm run build`, and linting with `npm run lint`.
 
-## Features
+## Features :
 
 - Responsive poster grid with a featured-show hero
 - TVMaze `/shows` catalog and `/search/shows` title search
@@ -27,7 +27,7 @@ The production build can be checked with `npm run build`, and linting with `npm 
 
 Show data and images are provided by [TVMaze](https://www.tvmaze.com/), used under its [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).
 
-## Source structure
+## Source structure :
 
 ```text
 src/
